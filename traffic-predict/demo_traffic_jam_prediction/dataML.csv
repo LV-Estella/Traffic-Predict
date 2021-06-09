@@ -1,0 +1,56 @@
+events,label
+"traffic jam, road construction",1
+"stopped traffic, traffic jam, stopped traffic",1
+"stopped car on the shoulder, stopped traffic, pothole",1
+"traffic jam, small traffic jam, traffic jam",1
+"traffic heavier than normal, heavy traffic",1
+"normal, police control, good traffic",0
+"good traffic, large road",0
+"normal, good traffic",0
+other,0
+"heavy traffic, traffic jam, traffic jam, stop.",1
+"slowdown, stopped car",1
+"acident, traffic jam, slowdown, stopped car",1
+"traffic jam, traffic jam, traffic jam",1
+"traffic heavier than normal, heavy traffic",1
+"traffic jam, traffic jam, traffic jam",1
+"missing sight on the shoulder, malfunctioning traffic light",1
+"animal on the struck, major event, slowdown, stopped car",1
+normal,0
+"ice on roadway, hazerd on the shoulder, traffic jam",1
+"weather hazard, flooding, hail, flood road",1
+"road closed due to hazard, huge traffic jam",1
+"have children, near school district, slowdown, heavy traffic",1
+"bus road, street vendors, slowdowns",1
+good road have traffic police,0
+police control,0
+"small road, flooding",1
+other,0
+"encroachung on the side, have childrens, near school district",1
+"someone is going in the opposite direction, asynchronous infrastructure",1
+"the route with many pedestrians, encroaching on the sidewalk",1
+"near university, traffic jam",1
+"few people move, normal",0
+good traffic,0
+large road,0
+police control,0
+normal,0
+police control,0
+"large road, police control",0
+"accident, fog",1
+"road construction, object on roadway",1
+"slowdown, stopped car, trafffic heavier than normal",1
+"major event, monor accident, small traffic jam",1
+"medium traffic jam, normal",0
+"good traffic, huge traffic jam",0
+normal,0
+"flooded road, potholo",1
+"flooding, potholo, bus route",1
+normal,0
+"good traffic, police control",0
+"near school district, small road",1
+"street vendors, potholo, traffic jam",1
+"many container trucks, traffic jam, hail",1
+accident happens,1
+nomal,0
+other,0
